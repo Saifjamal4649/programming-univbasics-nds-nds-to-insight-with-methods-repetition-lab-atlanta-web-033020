@@ -33,7 +33,7 @@ director_index = 0
     director_list.push(source[director_index][:name])
     director_index += 1
   end
-  director_lis
+  director_list
 end
 
 def total_gross(source)
